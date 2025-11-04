@@ -21,4 +21,3 @@ A simple Command-Line Interface (CLI) project built using **Java JDBC** and **My
 "javac GymCrudDemo.java"
 3. Run:
 "java -cp ".;mysql-connector-j-9.5.0.jar" GymCrudDemo"
-
